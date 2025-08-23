@@ -30,4 +30,4 @@ The goal is to practice and consolidate everything I have learned so far in HTML
 ## 🚀 How to View
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/SeuUsuario/awax-landing-page.git
+   git clone https://github.com/felipematosux/awax-landing-page.git
